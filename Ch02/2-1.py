@@ -79,4 +79,16 @@ print('res3 : ', res3)
 print('res4 : ', res4)
 print('res5 : ', res5)
 
+for a in [1, 2, 3]:
+    print(a)
+
+multiline = """
+Life is too short
+Hello Python!!
+"""
+
+print(multiline)
+
+
+
 
