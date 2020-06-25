@@ -25,3 +25,4 @@ conn.commit()
 conn.close()
 
 print('INSERT 완료!')
+
